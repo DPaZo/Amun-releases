@@ -16,4 +16,5 @@ This wheel is for Windows + Python 3.14 only.
 
 Install from PyPI
 
+```bash
 pip install amun-robot
